@@ -26,6 +26,7 @@ h2 {
   border-radius: 9px;
   width: 600px;
   margin-left: 20px;
+  margin-bottom: 15px;
 }
 
 .environmentHeading {
@@ -49,6 +50,7 @@ h2 {
   border-radius: 9px;
   width: 600px;
   margin-left: 20px;
+  margin-bottom: 15px;
 }
 
 .socialHeading {
@@ -104,8 +106,4 @@ h2 {
   background-color: #f2f7ff;
   width: 600px;
   padding-left: 22px;
-}
-
-.break {
-  height: 15px;
 }
